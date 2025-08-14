@@ -4,18 +4,20 @@ Repository for hosting the course material from the PDC Summer School 2025
 | Date/Time			| Title    											| Instructor       		| Files										|
 |----------         |----------											|----------				|----------									|  
 | *14 August 2025*  |    												|    					| 											|
-| 9:00 - 9:05    	| Welcome to online session 						| 						| [Files](introduction/README.md)			|
-| 9:05 - 9:40    	| Basics of HPC environmnet 						|    					| [Files](introduction/README.md)			|
-| 9:40 - 10:10    	| Using bash shell 									| 						| [Files](introduction/README.md)			|
-| Break				|													|						|											|
-| 10:30 - 12:00    	| Virtual cluster demo	 							|    					| [Files](introduction/README.md)			|
+| 9:00 - 9:15    	| Welcome to online session 						| 						| [Files](introduction/README.md)			|
+| 9:15 - 10:00    	| Basics of HPC environment & Introduction to Dardel						|    					| [Files](introduction/PDC_Summer_School_2025_1.Introduction_to_HPC_Dardel.pdf)			|
+| 10:00 - 10:30     | Break                      |                    |                            |
+| 10:30 - 11:00    	| Using bash shell 									| 						| [Files](introduction/README.md)			|
+| 11:00 - 11:10			| Break													|						|											|
+| 11:10 - 12:00    	| Logging into Dardel	 							|    					| 			|
 |					|													|						|											|
 | *15 August 2025*  |    												|    					| 											|
-| 9:00 - 9:05    	| Welcome to online session 						| 						| [Files](introduction/README.md)			|
-| 9:05 - 10:00    	| Intro to Dardel \& login 							|    					| [Files](introduction/README.md)			|
-| Break				|													|						|											|
-| 10:20 - 11:10    	| Job scripts for efficient utilization of hardware | 						| [Files](introduction/README.md)			|
-| 11:10 - 12:00    	| Compiling \& running on Dardel	 				|    					| [Files](introduction/README.md)			|
+| 9:00 - 9:10    	| Welcome to online session 						| 						| [Files](introduction/README.md)			|
+| 9:10 - 10:00    	| Job scripts for efficient utilisation of hardware 							|    					| [Files](introduction/README.md)			|
+| 10:00 - 10:15				| Break													|						|											|
+| 10:15 - 11:10    	| Compling and running on Dardel | 						| [Files](introduction/compile_run_dardel.pdf)			|
+| 11:10 - 12:00    	| Troubleshooting problems with logging in to Dardel
+or other problems related to using the system	 				|    					| 		|
 |					|													|						|											|
 | *18 August 2025*  |    												|    					| 											|
 | 8:30 - 9:00    	| Welcome \& introduction to school 				| 						| [Files](introduction/README.md)			|
