@@ -32,10 +32,10 @@ or other problems related to using the system	 				|    					| 		|
 |					|													|						|											|
 | *19 August 2025*  |    												|    					| 											|	
 | 8:30 - 9:30    	| Introduction to parallel programming 				| 						| [Files](parallel-programming/README.md)	|
-| 9:30 - 12:00    	| OpenMP: CPU   									|    					| [Files](parallel-programming/README.md)	|
+| 9:30 - 12:00    	| OpenMP: CPU   									|    					| [Files](parallel-programming/openmp_cpu)	|
 | Lunch				|													|						|											|
 | 13:30 - 14:00    	| Participant flashtalks 							| 						| [Files](participant-flashtalks/README.md)	|
-| 14:00 - 17:00    	| OpenMP: GPU	 									|    					| [Files](parallel-programming/README.md)	|
+| 14:00 - 17:00    	| OpenMP: GPU	 									|    					| [Files](parallel-programming/openmp_gpu)	|
 | Dardel tour		|													|						|											|
 |					|													|						|											|
 | *20 August 2025*  |    												|    					| 											|
