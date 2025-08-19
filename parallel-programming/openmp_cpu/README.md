@@ -93,7 +93,7 @@ $ export OMP_SCHEDULE=type,chunk_size
 ```
 
 where type can be any of static,dynamic,guided and chunk_size is an optional argument controlling the granularity of the workload distribution. The program stores the workload distribution to a file such that it can be visualized later.
-Compile the program with make part1ex4. Run the program with OMP_SCHEDULE=static. After it has completed, execute gnuplot schedule.gp, and look at the result with xview schedule.png (Require X-forwarding).
+Compile the program with make part1ex4. Run the program with OMP_SCHEDULE=static. After it has completed, execute gnuplot schedule.gp, and look at the result.
 
 The x-axis of the plot corresponds to loop iterations, and the y-axis represents the threads. Can you figure out what the static scheduling does? Experiment with different values of OMP_SCHEDULE and try to figure out what static, dynamic, guided does. Also, try to change the chunk_size, for example OMP_SCHEDULE=static,2 and observe what happens.
 
